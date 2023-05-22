@@ -1,0 +1,23 @@
+
+g
+java:S1192"KDefine a constant instead of duplicating this literal "WELSHCORGI" 3 times.(¦É¾98Õàç“ø0
+/
+java:S1700&"Rename field "dog"(ŽÎ™Ý8Öàç“ø0
+7
+java:S1220""Move this file to a named package.8Öàç“ø0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¦É¾98Ûàç“ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ï‰ªˆ8Üàç“ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿý®‰ÿÿÿÿÿ8Ýàç“ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŸŒ®þÿÿÿÿ8Ýàç“ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŸÁÌÿÿÿÿÿ8Þàç“ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢²û‘ùÿÿÿÿ8Þàç“ø0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ßàç“ø0
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8ßàç“ø0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ßàç“ø0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ßàç“ø0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ßàç“ø0

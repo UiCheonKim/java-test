@@ -1,0 +1,8 @@
+
+s	java:S127E"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ΔK8ηΰη“ψ0
+7
+java:S1220""Move this file to a named package.8θΰη“ψ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ατ…τώÿÿÿÿ8ςΰη“ψ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ηγ§ψÿÿÿÿ8ςΰη“ψ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ι€ήϋÿÿÿÿ8σΰη“ψ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ξ§²€8σΰη“ψ0

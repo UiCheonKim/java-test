@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8¢àç“ø0
+]	java:S125"<This block of commented-out lines of code should be removed.(üçôˆúÿÿÿÿ8¨àç“ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÝÛÁ8©àç“ø0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8©àç“ø0
+]	java:S125"<This block of commented-out lines of code should be removed.(üçôˆúÿÿÿÿ8ªàç“ø0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(éÝÛÁ8ªàç“ø0
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8«àç“ø0

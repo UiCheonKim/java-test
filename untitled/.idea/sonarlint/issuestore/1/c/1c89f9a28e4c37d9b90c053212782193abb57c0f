@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8˜áç“ø0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ä‚šòûÿÿÿÿ8áç“ø0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8áç“ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ûıúùÿÿÿÿ8Ÿáç“ø0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8 áç“ø0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(÷æ¨8 áç“ø0
